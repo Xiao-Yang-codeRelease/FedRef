@@ -1,2 +1,2 @@
 # FedRef
-FedRef official code open source
+## The code for our paper FedRef will be released soon.
